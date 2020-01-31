@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | The Greathouse Lab</title>
-    <link>/greathouselab.github.io/tags/</link>
-      <atom:link href="/greathouselab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>greathouselab.github.io/tags/</link>
+      <atom:link href="greathouselab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/greathouselab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>/greathouselab.github.io/tags/</link>
+      <link>greathouselab.github.io/tags/</link>
     </image>
     
     <item>
       <title>cancer</title>
-      <link>/greathouselab.github.io/tags/cancer/</link>
+      <link>greathouselab.github.io/tags/cancer/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/greathouselab.github.io/tags/cancer/</guid>
+      <guid>greathouselab.github.io/tags/cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CRC</title>
-      <link>/greathouselab.github.io/tags/crc/</link>
+      <link>greathouselab.github.io/tags/crc/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/greathouselab.github.io/tags/crc/</guid>
+      <guid>greathouselab.github.io/tags/crc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lung cancer</title>
-      <link>/greathouselab.github.io/tags/lung-cancer/</link>
+      <link>greathouselab.github.io/tags/lung-cancer/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-      <guid>/greathouselab.github.io/tags/lung-cancer/</guid>
+      <guid>greathouselab.github.io/tags/lung-cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbiome</title>
-      <link>/greathouselab.github.io/tags/microbiome/</link>
+      <link>greathouselab.github.io/tags/microbiome/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-      <guid>/greathouselab.github.io/tags/microbiome/</guid>
+      <guid>greathouselab.github.io/tags/microbiome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TP53</title>
-      <link>/greathouselab.github.io/tags/tp53/</link>
+      <link>greathouselab.github.io/tags/tp53/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-      <guid>/greathouselab.github.io/tags/tp53/</guid>
+      <guid>greathouselab.github.io/tags/tp53/</guid>
       <description></description>
     </item>
     

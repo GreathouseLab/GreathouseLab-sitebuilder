@@ -130,7 +130,7 @@ Go to this link for waste pick up forms or request disposal/pickup.
 
 Equipment
 
-$-80$ C freezer 
+-80 C freezer 
   *	Whenever ice builds up on the edges and corners of inside doors, use ice scraper to remove. If this is not performed, doors can be damaged. 
   *	Unit will vacuum seal after opening, if you need to open it again, turn the knob on the left side of the unit to release the vacuum seal. 
   *	This dial has an ice pick for when ice builds up. If can be used from the inside or the outside. However, due to the location of the unit, from the inside will be most efficient. Life the bottom of the top freezer to access the area. 
