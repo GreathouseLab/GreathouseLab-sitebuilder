@@ -2,61 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | The Greathouse Lab</title>
-    <link>greathouselab.github.io/authors/</link>
-      <atom:link href="greathouselab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/greathouselab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>greathouselab.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
+      <title>Elisa Morales-Marroquin, Blake Hanson, Leigh Greathouse, Nestor de la Cruz-Munoz, Sarah E. Messiah</title>
+      <link>/authors/elisa-morales-marroquin-blake-hanson-leigh-greathouse-nestor-de-la-cruz-munoz-sarah-e.-messiah/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/elisa-morales-marroquin-blake-hanson-leigh-greathouse-nestor-de-la-cruz-munoz-sarah-e.-messiah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Leigh Greathouse, Bríd M. Ryan, Cari M. Kitahara, Elise D. Bowman, Curtis C. Harris</title>
+      <link>/authors/k.-leigh-greathouse-brid-m.-ryan-cari-m.-kitahara-elise-d.-bowman-curtis-c.-harris/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-leigh-greathouse-brid-m.-ryan-cari-m.-kitahara-elise-d.-bowman-curtis-c.-harris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Leigh Greathouse, R. Noah Padgett, Aadil Sheik, Joseph Petrosino, M. Hastings-Tolsma, M.A Faucher</title>
+      <link>/authors/k.-leigh-greathouse-r.-noah-padgett-aadil-sheik-joseph-petrosino-m.-hastings-tolsma-m.a-faucher/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-leigh-greathouse-r.-noah-padgett-aadil-sheik-joseph-petrosino-m.-hastings-tolsma-m.a-faucher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faucher, M. A., Greathouse, K. L., Hastings-Tolsma, M., Padgett, R. N., Sakovich, K., Choudhury, A., Petrosino, J. F.</title>
+      <link>/authors/faucher-m.-a.-greathouse-k.-l.-hastings-tolsma-m.-padgett-r.-n.-sakovich-k.-choudhury-a.-petrosino-j.-f./</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/faucher-m.-a.-greathouse-k.-l.-hastings-tolsma-m.-padgett-r.-n.-sakovich-k.-choudhury-a.-petrosino-j.-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greathouse KL, White JR, Vargas AJ, ..., Harris CC.</title>
+      <link>/authors/greathouse-kl-white-jr-vargas-aj-...-harris-cc./</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/greathouse-kl-white-jr-vargas-aj-...-harris-cc./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Greathouse, K. L., White, J. R., Padgett, R. N., Perrotta, B. G., Jenkins, G. D., Chia, N., &amp; Chen, J.</title>
-      <link>greathouselab.github.io/authors/greathouse-k.-l.-white-j.-r.-padgett-r.-n.-perrotta-b.-g.-jenkins-g.-d.-chia-n.-chen-j./</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/greathouse-k.-l.-white-j.-r.-padgett-r.-n.-perrotta-b.-g.-jenkins-g.-d.-chia-n.-chen-j./</guid>
+      <link>/authors/greathouse-k.-l.-white-j.-r.-padgett-r.-n.-perrotta-b.-g.-jenkins-g.-d.-chia-n.-chen-j./</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/greathouse-k.-l.-white-j.-r.-padgett-r.-n.-perrotta-b.-g.-jenkins-g.-d.-chia-n.-chen-j./</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Greathouse, K. L., White, J. R., Vargas, A. J., ...,  Harris, C. C.</title>
-      <link>greathouselab.github.io/authors/greathouse-k.-l.-white-j.-r.-vargas-a.-j.-...-harris-c.-c./</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-      <guid>greathouselab.github.io/authors/greathouse-k.-l.-white-j.-r.-vargas-a.-j.-...-harris-c.-c./</guid>
+      <title>Greathouse, K.L., Sinha, R. &amp; Vogtmann, E.</title>
+      <link>/authors/greathouse-k.l.-sinha-r.-vogtmann-e./</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/greathouse-k.l.-sinha-r.-vogtmann-e./</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>greathouselab.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>greathouselab.github.io/authors/coggeshall_a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/coggeshall_a/</guid>
+      <title>K. Leigh Greathouse, M. Faucher, M. Hastings-Tolsma</title>
+      <link>/authors/k.-leigh-greathouse-m.-faucher-m.-hastings-tolsma/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-leigh-greathouse-m.-faucher-m.-hastings-tolsma/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>greathouselab.github.io/authors/flores_e/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/flores_e/</guid>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>greathouselab.github.io/authors/homepage/</link>
+      <link>/authors/coggeshall_a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/homepage/</guid>
+      <guid>/authors/coggeshall_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/flores_e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/flores_e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/homepage/</guid>
       <description>&lt;p&gt;Develop integrated dietary and microbial tools for obesity and cancer prevention&lt;/p&gt;
 &lt;p&gt;The focus of our research group is understanding the relationship between diet and the microbiome in obesity and obesity-associate cancers, specifically colon cancer. Our goals are to 1) identify the dietary factors that modify the microbiome and their contribution obesity and colon cancer, 2) elucidate the key mechanisms controlling microbiota-host communication, and 3) develop microbial classifiers that improve stratification of patients for colon cancer treatment. Ultimately, our goal is to discover dietary factors and microbial targets for the development of clinical tools to prevent colon cancer development, and reduce morbidity and mortality from colon cancer.&lt;/p&gt;
 </description>
@@ -64,49 +120,57 @@
     
     <item>
       <title></title>
-      <link>greathouselab.github.io/authors/ike_i/</link>
+      <link>/authors/ike_i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/ike_i/</guid>
+      <guid>/authors/ike_i/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>greathouselab.github.io/authors/karimighovanloo_f/</link>
+      <link>/authors/karimighovanloo_f/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/karimighovanloo_f/</guid>
+      <guid>/authors/karimighovanloo_f/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>greathouselab.github.io/authors/kulkarni_v/</link>
+      <link>/authors/kulkarni_v/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/kulkarni_v/</guid>
+      <guid>/authors/kulkarni_v/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>greathouselab.github.io/authors/ojeas_h/</link>
+      <link>/authors/ojeas_h/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/ojeas_h/</guid>
+      <guid>/authors/ojeas_h/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>greathouselab.github.io/authors/sheikh_a/</link>
+      <link>/authors/sheikh_a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/sheikh_a/</guid>
+      <guid>/authors/sheikh_a/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>greathouselab.github.io/authors/wang_j/</link>
+      <link>/authors/wang_j/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/authors/wang_j/</guid>
+      <guid>/authors/wang_j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elisa Morales, Jun Chen, K. Leigh Greathouse</title>
+      <link>/authors/elisa-morales-jun-chen-k.-leigh-greathouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/elisa-morales-jun-chen-k.-leigh-greathouse/</guid>
       <description></description>
     </item>
     

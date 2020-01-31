@@ -3,7 +3,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 #title = ""
@@ -45,12 +45,12 @@ weight = 60  # Order that this section will appear.
 #  css_class = ""
 +++
 
-# Microbiome Research Standardization
+## Microbiome Research Standardization
 
-Human microbiome research has been exploding, but has outstripped standardization practices. Our lab has been leading the charge to improve access to improved protocols in human microbiome studies. Standardization in microbiome analyses is fundamental to reliably measure the human microbiome. Variability in results can stem from all the steps in the human microbiome study process including sample collection, DNA extraction, sequencing, and bioinformatics. Of these, DNA extraction was identified by the MicroBiome Quality Control project (MBQC), the International Human Microbiome Standards (IHMS) group, and others as contributing a majority of experimental variability. Together with other labs, we set forth a list of best practices for laboratories considering human microbiome studies, especially those working with low biomass samples (e.g. fresh-frozen tissues). Our goal is to continue to improve protocols and to help other researchers produce high-quality and reproducible microbiome research. 
+Human microbiome research has been exploding, but has outstripped standardization practices. 
+Our lab has been leading the charge to improve access to improved protocols in human microbiome studies. Standardization in microbiome analyses is fundamental to reliably measure the human microbiome. 
+Variability in results can stem from all the steps in the human microbiome study process including sample collection, DNA extraction, sequencing, and bioinformatics. 
+Of these, DNA extraction was identified by the MicroBiome Quality Control project (MBQC), the International Human Microbiome Standards (IHMS) group, and others as contributing a majority of experimental variability. 
+Together with other labs, we set forth a list of best practices for laboratories considering human microbiome studies, especially those working with low biomass samples (e.g. fresh-frozen tissues). 
+Our goal is to continue to improve protocols and to help other researchers produce high-quality and reproducible microbiome research. 
 
-Greathouse, K.L., Sinha, R. & Vogtmann, E. (2019). DNA extraction for human microbiome studies: the issue of standardization. Genome Biology
-
-Elisa Morales, Jun Chen, K. Leigh Greathouse. Compositional Analysis of the Human Microbiome in Cancer Research. Cancer Metabolism: Methods and Protocols. Springer, 2018.
-
-(links forthcoming)

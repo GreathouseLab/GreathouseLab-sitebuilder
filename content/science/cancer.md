@@ -45,7 +45,7 @@ weight = 20  # Order that this section will appear.
 #  css_class = ""
 +++
 
-# Cancer Prevention
-
+## Cancer Prevention
 
 Colorectal cancer (CRC) is the second most lethal cancer in the U.S.. Alarmingly, incidence and mortality from CRC is on the rise among those under the age of 50. Several studies now highlight the microbiome as a key biomarker and contributor to colon cancer development. Diet is also key in preventing cancer, especially colon cancer. Unfortunately, very little focus has been placed on understanding the interaction between diet and the gut microbiome in cancer prevention and treatment response to cancer therapy. The standard treatment usually includes surgery and chemotherapy and now immunotherapy. These treatments, while demonstrating improvement in survival, often have severe side effects, such as severe diarrhea, that can be both transient and long-lasting. Studies from our research indicate that diet is likely a key factor in predicting treatment toxicity, and possible target for intervention. We are currently developing the tools necessary to arcuately capture dietary information during cancer treatment, as well as, microbiome data to better understand and identify the factors that predict cancer risk and response to therapy. Additionally, we previously identified a link between the lung microbiome and mutation in a tumor suppressor gene, TP53, and are studying this relationship in colon cancer.
+

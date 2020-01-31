@@ -45,6 +45,11 @@ url_slides:
 url_source:
 url_video:
 
+# Custom status (optional).
+#   Uncomment line below to enable. Replaces date with content of your choice.
+custom_status: "In Press"
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

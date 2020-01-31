@@ -7,7 +7,7 @@ authors:
 - Karimighovan_F
 
 # Role/position
-role: 
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -61,6 +61,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Memberss
+- Grad Students
 ---
 

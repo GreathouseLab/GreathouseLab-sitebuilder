@@ -2,53 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | The Greathouse Lab</title>
-    <link>greathouselab.github.io/tags/</link>
-      <atom:link href="greathouselab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/greathouselab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>greathouselab.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
+      <title>obesity</title>
+      <link>/tags/obesity/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cancer</title>
-      <link>greathouselab.github.io/tags/cancer/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/tags/cancer/</guid>
+      <link>/tags/cancer/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/cancer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CRC</title>
-      <link>greathouselab.github.io/tags/crc/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>greathouselab.github.io/tags/crc/</guid>
+      <title>microresearch</title>
+      <link>/tags/microresearch/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/microresearch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lung cancer</title>
-      <link>greathouselab.github.io/tags/lung-cancer/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-      <guid>greathouselab.github.io/tags/lung-cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microbiome</title>
-      <link>greathouselab.github.io/tags/microbiome/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-      <guid>greathouselab.github.io/tags/microbiome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TP53</title>
-      <link>greathouselab.github.io/tags/tp53/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
-      <guid>greathouselab.github.io/tags/tp53/</guid>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     

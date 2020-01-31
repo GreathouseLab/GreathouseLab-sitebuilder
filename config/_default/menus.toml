@@ -10,7 +10,7 @@
 
 [[main]]
   name   = "Science"
-  url    = "science/"
+  url    = "/science/"
   weight = 20
 
 [[main]]
@@ -30,12 +30,12 @@
 
 [[main]]
   name   = "Papers"
-  url    = "papers/"
+  url    = "/papers/"
   weight = 40
 
 [[main]]
-  name   = "Lab Resources"
-  url    = "labresources/"
+  name   = "Lab Business"
+  url    = "/labbusiness/"
   weight = 50
 
 #[[main]]
