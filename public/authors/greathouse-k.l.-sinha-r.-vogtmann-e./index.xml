@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greathouse, K.L., Sinha, R. &amp; Vogtmann, E. | The Greathouse Lab</title>
+    <link>/authors/greathouse-k.l.-sinha-r.-vogtmann-e./</link>
+      <atom:link href="/authors/greathouse-k.l.-sinha-r.-vogtmann-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Greathouse, K.L., Sinha, R. &amp; Vogtmann, E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>DNA extraction for human microbiome studies: the issue of standardization</title>
+      <link>/publication/greathouse2019b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/greathouse2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA extraction for human microbiome studies: the issue of standardization</title>
+      <link>/papers/greathouse2019gb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/papers/greathouse2019gb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
