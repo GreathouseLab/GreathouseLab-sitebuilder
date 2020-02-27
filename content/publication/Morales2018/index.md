@@ -1,7 +1,7 @@
 ---
 title: "Compositional Analysis of the Human Microbiome in Cancer Research"
 authors: ["Elisa Morales, Jun Chen, K. Leigh Greathouse"]
-date: "2018-00-00"
+date: "2018-01-01"
 doi: ""
 
 # Custom status (optional). IF UNDER REVIEW OR IN PRESS
@@ -16,7 +16,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Cancer Metabolism: Methods and Protocols, Springer."

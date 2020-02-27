@@ -1,7 +1,7 @@
 ---
 title: "The Gut Microbiome, Obesity, and weight control in Women’s Reproductive Health."
 authors: ["K. Leigh Greathouse, M. Faucher, M. Hastings-Tolsma"]
-date: "2017-00-00"
+date: "2017-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

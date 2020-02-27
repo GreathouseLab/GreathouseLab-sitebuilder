@@ -1,7 +1,7 @@
 ---
 title: "Gut microbiome meta-analysis reveals dysbiosis is independent of body mass index in predicting risk of obesity-associated CRC"
 authors: ["Greathouse, K. L., White, J. R., Padgett, R. N., Perrotta, B. G., Jenkins, G. D., Chia, N., & Chen, J."]
-date: "2018-00-00"
+date: "2018-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
