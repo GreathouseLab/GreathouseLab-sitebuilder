@@ -13,6 +13,10 @@ weight = 30  # Order that this section will appear.
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
+[design.header]
+  caption= "Microbiome-Host Communication"
+  image="Straight_Cell_Background.png"
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -27,7 +31,7 @@ weight = 30  # Order that this section will appear.
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/img/`.
+  #image = "Straight_Cell_Background.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -46,6 +50,9 @@ weight = 30  # Order that this section will appear.
 +++
 
 ## Inflammation Prevention
+
+![Microbiome-Host Communication](/img/Straight_Cell_Background.png)
+*Microbiome-Host Communication*
 
 Chronic inflammatory diseases, which include both obesity and cancer, have been on the rise in Western countries for decades, yet clinical tools for prediction or curative treatments remain elusive. Bacteria in the colon play a key role in regulating the balance between acute and chronic inflammation, and understanding how to re-establish immune homeostasis is paramount in preventing chronic inflammatory disease development. The inflammatory response is governed, in part, through recognition of extracellular microbial RNA species by host cell receptors, including Toll-like Receptors (TLRs). Extracellular bacterial RNA is able to bind host TLRs and activate inflammatory signals, as well as provide tolerance to microbes. Recently, bacterial small RNA (sRNA) species were identified within outer membrane vesicles (OMVs) that are shed by bacteria. Small RNAs represent a critical trigger governing whether host cells respond with pro- or anti-inflammatory signals. It is unclear, however, how these sRNA species are parsed as cargo in OMVs, how sRNA species are transmitted from the bacteria to host intestinal epithelial cells, nor the mechanisms dictating host response to sRNA. We have evidence now showing that these OMV-derived small RNAs activate TLRs and the inflammatory pathways in epithelial cells. Defining the mechanisms by which bacteria use sRNA species to communicate with the host, and its role in controlling inflammation, holds promise for development of new strategies to control inflammation and re-establish intestinal homeostasis. 
 
