@@ -3,7 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/labbusiness/opportunities/</loc>
+    <loc>/publication/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -57,11 +58,6 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -83,12 +79,52 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/cancer/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/morales2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/elisa-morales-jun-chen-k.-leigh-greathouse/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/greathouse-kl-white-jr-vargas-aj-...-harris-cc./</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/greathouse-k.-l.-white-j.-r.-padgett-r.-n.-perrotta-b.-g.-jenkins-g.-d.-chia-n.-chen-j./</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/greathouse2018a/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/greathouse2018b/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/microresearch/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -107,37 +143,12 @@
   </url>
   
   <url>
-    <loc>/authors/greathouse-kl-white-jr-vargas-aj-...-harris-cc./</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/greathouse-k.-l.-white-j.-r.-padgett-r.-n.-perrotta-b.-g.-jenkins-g.-d.-chia-n.-chen-j./</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/greathouse-k.l.-sinha-r.-vogtmann-e./</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/greathouse2018a/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/greathouse2018b/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/k.-leigh-greathouse-m.-faucher-m.-hastings-tolsma/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/microresearch/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -207,31 +218,11 @@
   </url>
   
   <url>
-    <loc>/publication_types/5/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/publication/morales2018/</loc>
-  </url>
-  
-  <url>
-    <loc>/papers/greathouse2019gb/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/elisa-morales-jun-chen-k.-leigh-greathouse/</loc>
-  </url>
-  
-  <url>
     <loc>/labbusiness/</loc>
-  </url>
-  
-  <url>
-    <loc>/papers/</loc>
   </url>
   
 </urlset>
