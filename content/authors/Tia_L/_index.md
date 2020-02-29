@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Aadil Sheikh
+name: Lillian Tia
 
 # Username (this should match the folder name)
 authors:
-- Sheikh_A
+- Tia_L
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Undergrad Student
 
 # Organizations/Affiliations
 organizations:
@@ -64,5 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Researchers
 ---
+
