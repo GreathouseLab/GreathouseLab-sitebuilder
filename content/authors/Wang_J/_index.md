@@ -23,17 +23,17 @@ bio:
 interests:
 
 
-education:
-  courses:
-  - course: PhD in Z
-    institution: z
-    year: 200z
-  - course: MS in Y
-    institution: y
-    year: 200y
-  - course: BSc in X
-    institution: x
-    year: 200x
+# education:
+#   courses:
+#   - course: PhD in Z
+#     institution: z
+#     year: 200z
+#   - course: MS in Y
+#     institution: y
+#     year: 200y
+#   - course: BSc in X
+#     institution: x
+#     year: 200x
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

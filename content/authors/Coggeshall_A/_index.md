@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Aadil Sheikh
+name: A, Coggeshall
 
 # Username (this should match the folder name)
 authors:
-- Sheikh_A
+- Coggeshall_A
 
 # Is this the primary user of the site?
 superuser: true

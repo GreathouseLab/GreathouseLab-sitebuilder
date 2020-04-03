@@ -34,8 +34,8 @@
   weight = 40
 
 [[main]]
-  name   = "Lab Business"
-  url    = "/labbusiness/"
+  name   = "Lab Resources"
+  url    = "/lab_resources/"
   weight = 50
 
 #[[main]]
