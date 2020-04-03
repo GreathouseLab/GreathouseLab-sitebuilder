@@ -1,16 +1,17 @@
 ---
 title: Lab Safety
-#summary: Here we describe how to add a page to your site.
+linktitle: Lab Safety
+toc: false
+type: docs
+date: "2020-04-02T00:00:00Z"
+draft: false
+menu:
+  example:
+    parent: Overview
+    weight: 3
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: true  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 5
 ---
 
 
