@@ -1,7 +1,7 @@
 ---
 title: Lab Policies
 linktitle: Lab Policies
-toc: true
+toc: false
 type: docs
 date: "2020-04-02T00:00:00Z"
 draft: false

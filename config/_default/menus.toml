@@ -38,6 +38,11 @@
   url    = "/lab_resources/"
   weight = 50
 
+[[main]]
+  name   = "Opportunities"
+  url    = "/opportunities/"
+  weight = 60
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
