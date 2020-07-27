@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Greathouse Lab</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://GreathouseLab.github.io/</link>
+      <atom:link href="https://GreathouseLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Greathouse Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>The Greathouse Lab</title>
-      <link>/</link>
+      <link>https://GreathouseLab.github.io/</link>
     </image>
     
     <item>
       <title>Lab Policies</title>
-      <link>/lab_resources/lab_policies/</link>
+      <link>https://GreathouseLab.github.io/lab_resources/lab_policies/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/lab_resources/lab_policies/</guid>
+      <guid>https://GreathouseLab.github.io/lab_resources/lab_policies/</guid>
       <description>&lt;p&gt;So you are here, now what&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Welcome to the Greathouse lab at Baylor University.  In this memo I set out to describe my expectations of myself as a mentor and you as a part of the project and lab.  Some elements are simply practical ‘dos’ and ‘don’ts’ but many touches on the issue of collaboration and team science.&lt;/p&gt;
 &lt;p&gt;My goal as a mentor is to support and empower each team member to articulate and achieve his/her goals within the team’s vision. As a mentor, I am committed to helping you to develop scientific skills and learn the nuances of microbial genomics. I strive to help you achieve success along your chosen career path through assisting with networking, identifying opportunities and tackling complex scientific question.  Most often I can do this by assembling the resources and sharing the formative successes and failures I (and others) have faced along the way.  I may or may not be the right mentor to you at every stage (due to my own professional and academic limitations), but I will try to be a resource for identifying others who can help guide you in that role.&lt;/p&gt;
@@ -107,9 +107,9 @@
     
     <item>
       <title>Work with Human Subjects</title>
-      <link>/lab_resources/lab_equipment/</link>
+      <link>https://GreathouseLab.github.io/lab_resources/lab_equipment/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/lab_resources/lab_equipment/</guid>
+      <guid>https://GreathouseLab.github.io/lab_resources/lab_equipment/</guid>
       <description>&lt;p&gt;-80 C freezer&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Whenever ice builds up on the edges and corners of inside doors, use ice scraper to remove. If this is not performed, doors can be damaged.&lt;/li&gt;
@@ -169,13 +169,13 @@
     
     <item>
       <title>Lab Safety</title>
-      <link>/lab_resources/lab_safety/</link>
+      <link>https://GreathouseLab.github.io/lab_resources/lab_safety/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/lab_resources/lab_safety/</guid>
+      <guid>https://GreathouseLab.github.io/lab_resources/lab_safety/</guid>
       <description>&lt;p&gt;All of our lab safety record keeping is located on this website (Bioraft login: Bioraft link). It is your responsibility to keep your training up to date; you and I will be notified if training is required. For any emergencies please review these documents:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/files/Emergency%20Response%2010-2014.pdf&#34; target=&#34;_blank&#34;&gt;Laboratory Emergency Response Guide&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/files/Chemical%20Spill%20Instructurion%20Sheet.pdf&#34; target=&#34;_blank&#34;&gt;Chemical Spill Instruction Sheet&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://GreathouseLab.github.io/files/Emergency%20Response%2010-2014.pdf&#34; target=&#34;_blank&#34;&gt;Laboratory Emergency Response Guide&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://GreathouseLab.github.io/files/Chemical%20Spill%20Instructurion%20Sheet.pdf&#34; target=&#34;_blank&#34;&gt;Chemical Spill Instruction Sheet&lt;/a&gt;;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Fire Extinguisher Notes&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Go to this &lt;a href=&#34;https://www.baylor.edu/ehs/index.php?id=940153&#34;&gt;link&lt;/a&gt; for waste pick up forms or request disposal/pickup.&lt;/p&gt;
@@ -190,9 +190,9 @@
     
     <item>
       <title>Work with Human Subjects</title>
-      <link>/lab_resources/human_subjects/</link>
+      <link>https://GreathouseLab.github.io/lab_resources/human_subjects/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/lab_resources/human_subjects/</guid>
+      <guid>https://GreathouseLab.github.io/lab_resources/human_subjects/</guid>
       <description>&lt;p&gt;If you are participating in or working data from studies with human subjects, you MUST complete CITI train BEFORE working with any subjects or data:&lt;/p&gt;
 &lt;h3 id=&#34;ibc-required-training&#34;&gt;IBC Required Training&lt;/h3&gt;
 &lt;p&gt;IBC regulatory training for all investigators and lab personnel in BSL1, BSL2, or BSL3 Labs is completed through CITI. All required CITI training should be completed before submitting protocols to the IBC. Incomplete training will delay review and approval. Many additional IBC training modules are available to investigators through CITI. The IBC encourages investigators to access these modules as you see fit to facilitate your own research or instruction, and to use them as a resource in your teaching and mentoring of student investigators.&lt;/p&gt;
@@ -206,100 +206,91 @@ Pat Neff Hall, 3rd Floor&lt;br/&gt;
     </item>
     
     <item>
+      <title>Opportunities</title>
+      <link>https://GreathouseLab.github.io/opportunities/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://GreathouseLab.github.io/opportunities/</guid>
+      <description>&lt;p&gt;The next major upcoming opportunity in our lab is a post doc position. The details of which are available &lt;a href=&#34;https://GreathouseLab.github.io/files/Postdoc%20position.docx&#34; target=&#34;_blank&#34;&gt;HERE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Comparison of Methodological Approaches to Human Gut Microbiota Changes in Response to Metabolic and Bariatric Surgery: A Systematic Review.</title>
-      <link>/publication/moralesura/</link>
+      <link>https://GreathouseLab.github.io/publication/moralesura/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/moralesura/</guid>
+      <guid>https://GreathouseLab.github.io/publication/moralesura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration of diet quality by obesity severity in association with gestational weight gain and distal gut microbiota in pregnant African American women: A Pilot Study</title>
-      <link>/publication/greathouseurb/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouseurb/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouseurb/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouseurb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lung Cancer Risk is Mediated by Anthropometric Measurement in European and African Americans</title>
-      <link>/publication/greathouseura/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouseura/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouseura/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouseura/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Compositional Analysis of the Human Microbiome in Cancer Research</title>
-      <link>/publication/morales2018/</link>
+      <link>https://GreathouseLab.github.io/publication/morales2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/morales2018/</guid>
+      <guid>https://GreathouseLab.github.io/publication/morales2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gut microbiome meta-analysis reveals dysbiosis is independent of body mass index in predicting risk of obesity-associated CRC</title>
-      <link>/publication/greathouse2018a/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2018a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2018a/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interaction between the microbiome and TP53 in human lung cancer</title>
-      <link>/publication/greathouse2018b/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2018b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2018b/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNA extraction for human microbiome studies: the issue of standardization</title>
-      <link>/publication/greathouse2019b/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2019b/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2019b/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration of the Vaginal and Gut Microbiome in African American Women by Body Mass Index, Class of Obesity, and Gestational Weight Gain: A Pilot Study</title>
-      <link>/publication/faucher2019a/</link>
+      <link>https://GreathouseLab.github.io/publication/faucher2019a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/faucher2019a/</guid>
+      <guid>https://GreathouseLab.github.io/publication/faucher2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Gut Microbiome, Obesity, and weight control in Women’s Reproductive Health.</title>
-      <link>/publication/greathouse2017/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2017/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>/publication/greathouse2019a/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2019a/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2019a/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2019a/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -316,9 +307,9 @@ Pat Neff Hall, 3rd Floor&lt;br/&gt;
     
     <item>
       <title></title>
-      <link>/science/</link>
+      <link>https://GreathouseLab.github.io/science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/science/</guid>
+      <guid>https://GreathouseLab.github.io/science/</guid>
       <description></description>
     </item>
     

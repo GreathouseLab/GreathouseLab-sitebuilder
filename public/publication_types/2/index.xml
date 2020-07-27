@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | The Greathouse Lab</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://GreathouseLab.github.io/publication_types/2/</link>
+      <atom:link href="https://GreathouseLab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://GreathouseLab.github.io/publication_types/2/</link>
     </image>
     
     <item>
       <title>Gut microbiome meta-analysis reveals dysbiosis is independent of body mass index in predicting risk of obesity-associated CRC</title>
-      <link>/publication/greathouse2018a/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2018a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2018a/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interaction between the microbiome and TP53 in human lung cancer</title>
-      <link>/publication/greathouse2018b/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2018b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2018b/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNA extraction for human microbiome studies: the issue of standardization</title>
-      <link>/publication/greathouse2019b/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2019b/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2019b/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration of the Vaginal and Gut Microbiome in African American Women by Body Mass Index, Class of Obesity, and Gestational Weight Gain: A Pilot Study</title>
-      <link>/publication/faucher2019a/</link>
+      <link>https://GreathouseLab.github.io/publication/faucher2019a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/faucher2019a/</guid>
+      <guid>https://GreathouseLab.github.io/publication/faucher2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Gut Microbiome, Obesity, and weight control in Women’s Reproductive Health.</title>
-      <link>/publication/greathouse2017/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2017/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>/publication/greathouse2019a/</link>
+      <link>https://GreathouseLab.github.io/publication/greathouse2019a/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/greathouse2019a/</guid>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2019a/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

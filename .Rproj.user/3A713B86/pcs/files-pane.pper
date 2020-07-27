@@ -1,9 +1,9 @@
 {
-    "path" : "~/GitHub/site-build/GreathouseLab-sitebuilder",
-    "sortOrder" : [
+    "path": "~/GitHub/site-build/GreathouseLab-sitebuilder",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
