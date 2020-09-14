@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | The Greathouse Lab</title>
-    <link>https://GreathouseLab.github.io/publication_types/</link>
-      <atom:link href="https://GreathouseLab.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>https://GreathouseLab.github.io/publication_types/</link>
+      <link>/publication_types/</link>
     </image>
     
     <item>
       <title>3</title>
-      <link>https://GreathouseLab.github.io/publication_types/3/</link>
+      <link>/publication_types/3/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication_types/3/</guid>
+      <guid>/publication_types/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>https://GreathouseLab.github.io/publication_types/2/</link>
+      <link>/publication_types/2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication_types/2/</guid>
+      <guid>/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>6</title>
-      <link>https://GreathouseLab.github.io/publication_types/6/</link>
+      <link>/publication_types/6/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication_types/6/</guid>
+      <guid>/publication_types/6/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elisa Morales, Jun Chen, K. Leigh Greathouse | The Greathouse Lab</title>
-    <link>https://GreathouseLab.github.io/authors/elisa-morales-jun-chen-k.-leigh-greathouse/</link>
-      <atom:link href="https://GreathouseLab.github.io/authors/elisa-morales-jun-chen-k.-leigh-greathouse/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/elisa-morales-jun-chen-k.-leigh-greathouse/</link>
+      <atom:link href="/authors/elisa-morales-jun-chen-k.-leigh-greathouse/index.xml" rel="self" type="application/rss+xml" />
     <description>Elisa Morales, Jun Chen, K. Leigh Greathouse</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Elisa Morales, Jun Chen, K. Leigh Greathouse</title>
-      <link>https://GreathouseLab.github.io/authors/elisa-morales-jun-chen-k.-leigh-greathouse/</link>
+      <link>/authors/elisa-morales-jun-chen-k.-leigh-greathouse/</link>
     </image>
     
     <item>
       <title>Compositional Analysis of the Human Microbiome in Cancer Research</title>
-      <link>https://GreathouseLab.github.io/publication/morales2018/</link>
+      <link>/publication/morales2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/morales2018/</guid>
+      <guid>/publication/morales2018/</guid>
       <description></description>
     </item>
     
