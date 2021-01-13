@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ifeoma Ike
+title: Ifeoma Ike
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role:
 
 # Organizations/Affiliations
 organizations:

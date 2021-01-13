@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lillian Tia
+title: Lillian Tia
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergrad Student
+role: 
 
 # Organizations/Affiliations
 organizations:

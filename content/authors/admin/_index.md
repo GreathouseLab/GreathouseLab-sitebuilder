@@ -1,6 +1,6 @@
 ---
 # Display name
-name: K. Leigh Greathouse
+title: K. Leigh Greathouse
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor
+role: 
 
 # Organizations/Affiliations
 organizations:
