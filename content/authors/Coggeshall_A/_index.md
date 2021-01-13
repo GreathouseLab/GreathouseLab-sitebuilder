@@ -1,6 +1,6 @@
 ---
 # Display name
-name: A, Coggeshall
+title: A, Coggeshall
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role:
 
 # Organizations/Affiliations
 organizations:

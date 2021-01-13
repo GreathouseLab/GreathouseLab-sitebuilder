@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Elisa Flores
+title: Elisa Flores
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: 
 
 # Organizations/Affiliations
 organizations:
