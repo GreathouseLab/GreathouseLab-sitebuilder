@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:C:\Users\noahp\AppData\Local\Temp\hugo_cache\modules\filecache\modules\pkg\mod\github.com\wowchemy\wowchemy-hugo-modules\wowchemy@v0.0.0-20201216152842-69856326c6b7\assets\js\wowchemy-theming.js
+  // ns-hugo:/var/folders/d7/q8p12qms41x2995slgh5vmk00000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20201216152842-69856326c6b7/assets/js/wowchemy-theming.js
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
   }
