@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alison Jung
+title: Farnaz Karimighovanloo
 
 # Username (this should match the folder name)
 authors:
-- Jung_A
+- Karimighovanloo_F
 
 # Role/position
 role:
