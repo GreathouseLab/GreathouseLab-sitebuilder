@@ -5,7 +5,7 @@
     <link>https://GreathouseLab.github.io/tag/microresearch/</link>
       <atom:link href="https://GreathouseLab.github.io/tag/microresearch/index.xml" rel="self" type="application/rss+xml" />
     <description>microresearch</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>microresearch</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Compositional Analysis of the Human Microbiome in Cancer Research</title>
-      <link>https://GreathouseLab.github.io/publication/morales2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/morales2018/</guid>
+      <title>DNA extraction for human microbiome studies: the issue of standardization</title>
+      <link>https://GreathouseLab.github.io/publication/greathouse2019b/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2019b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DNA extraction for human microbiome studies: the issue of standardization</title>
-      <link>https://GreathouseLab.github.io/publication/greathouse2019b/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/greathouse2019b/</guid>
+      <title>Compositional Analysis of the Human Microbiome in Cancer Research</title>
+      <link>https://GreathouseLab.github.io/publication/morales2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GreathouseLab.github.io/publication/morales2018/</guid>
       <description></description>
     </item>
     

@@ -1,6 +1,9 @@
 ---
 title: "The Gut Microbiome, Obesity, and weight control in Women’s Reproductive Health."
-authors: ["K. Leigh Greathouse, M. Faucher, M. Hastings-Tolsma"]
+authors: 
+- admin
+- Mary Ann Faucher
+- Marie Hastings-Tolsma
 date: "2017-01-01"
 doi: ""
 

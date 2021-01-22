@@ -1,6 +1,12 @@
 ---
-title: "Exploration of diet quality by obesity severity in association with gestational weight gain and distal gut microbiota in pregnant African American women: A Pilot Study"
-authors: ["K. Leigh Greathouse, R. Noah Padgett, Aadil Sheik, Joseph Petrosino, M. Hastings-Tolsma, M.A Faucher"]
+title: "PREPRINT: Exploration of diet quality by obesity severity in association with gestational weight gain and distal gut microbiota in pregnant African American women: A Pilot Study"
+authors: 
+- admin 
+- Robert Noah Padgett
+- Aadil Sheik
+- Joseph Petrosino
+- Marie Hastings-Tolsma
+- Mary Ann Faucher
 date: "2020-01-30"
 doi: ""
 

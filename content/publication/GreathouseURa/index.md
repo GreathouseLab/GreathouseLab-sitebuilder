@@ -1,14 +1,13 @@
 ---
-title: "Lung Cancer Risk is Mediated by Anthropometric Measurement in European and African Americans"
-authors: ["K. Leigh Greathouse, Bríd M. Ryan, Cari M. Kitahara, Elise D. Bowman, Curtis C. Harris"]
+title: "PREPRINT: Lung Cancer Risk is Mediated by Anthropometric Measurement in European and African Americans"
+authors:
+- admin
+- Bríd M Ryan
+- Cari M Kitahara
+- Elise D Bowman
+- Curtis C Harris
 date: "2020-01-30"
 doi: ""
-
-# Custom status (optional). IF UNDER REVIEW OR IN PRESS
-#   Uncomment line below to enable. Replaces date with content of your choice.
-custom_status: "under review"
-
-
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

@@ -1,8 +1,11 @@
 ---
 title: "DNA extraction for human microbiome studies: the issue of standardization"
-authors: ["Greathouse, K.L., Sinha, R. & Vogtmann, E."]
-date: "2019-00-00"
-doi: ""
+authors: 
+- admin 
+- R Sinha
+- E Vogtmann
+date: "2019-10-21"
+doi: "10.1186/s13059-019-1843-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

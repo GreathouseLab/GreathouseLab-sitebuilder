@@ -1,7 +1,39 @@
 ---
 title: "Interaction between the microbiome and TP53 in human lung cancer"
-authors: ["Greathouse KL, White JR, Vargas AJ, ..., Harris CC."]
-#["Greathouse KL, White JR, Vargas AJ, Bliskovsky VV, Beck JA, von Muhlinen N, Polley EC, Bowman ED, Khan MA, Robles AI, Cooks T, Ryan BM, Padgett N, Dzutsev AH, Trinchieri G, Pineda MA, Bilke S, Meltzer PS, Hokenstad AN, Stickrod TM, Walther-Antonio MR, Earl JP, Mell JC, Krol JE, Balashov SV, Bhat AS, Ehrlich GD, Valm A, Deming C, Conlan S, Oh J, Segre JA, Harris CC."]
+authors: 
+- admin
+- James R White
+- Ashely J Vargas
+- Valery V Bliskovsky
+- Jessica A Beck
+- Natalia von Muhlinen
+- Eric C Polley
+- Elise D Bowman
+- Mohammed A Khan
+- Ana I Robles
+- Tomer Cooks
+- Bríd M Ryan
+- Robert Noah Padgett
+- Amiran H Dzutsev
+- Giorgio Trinchieri
+- Marbin A Pineda
+- Sven Bilke
+- Paul S Meltzer
+- Alexis N Hokenstad
+- Tricia M Stickrod
+- Marina R Walther-Antonio
+- Joshua P Earl
+- Joshua C Mell
+- Jaroslaw E Krol
+- Sergey V Balashov
+- Archana S Bhat
+- Garth D Ehrlich
+- Alex Valm
+- Clayton Deming
+- Sean Conlan
+- Julia Oh
+- Julie A Segre
+- Curtis C Harris
 date: "2018-00-00"
 doi: "10.1186/s13059-018-1501-6"
 

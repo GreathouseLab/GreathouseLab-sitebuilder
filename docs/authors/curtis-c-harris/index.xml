@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curtis C Harris | The Greathouse Lab</title>
+    <link>https://GreathouseLab.github.io/authors/curtis-c-harris/</link>
+      <atom:link href="https://GreathouseLab.github.io/authors/curtis-c-harris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Curtis C Harris</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Curtis C Harris</title>
+      <link>https://GreathouseLab.github.io/authors/curtis-c-harris/</link>
+    </image>
+    
+    <item>
+      <title>PREPRINT: Lung Cancer Risk is Mediated by Anthropometric Measurement in European and African Americans</title>
+      <link>https://GreathouseLab.github.io/publication/greathouseura/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://GreathouseLab.github.io/publication/greathouseura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction between the microbiome and TP53 in human lung cancer</title>
+      <link>https://GreathouseLab.github.io/publication/greathouse2018b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://GreathouseLab.github.io/publication/greathouse2018b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

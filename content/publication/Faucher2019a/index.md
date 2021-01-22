@@ -1,6 +1,16 @@
 ---
 title: "Exploration of the Vaginal and Gut Microbiome in African American Women by Body Mass Index, Class of Obesity, and Gestational Weight Gain: A Pilot Study"
-authors: ["Faucher, M. A., Greathouse, K. L., Hastings-Tolsma, M., Padgett, R. N., Sakovich, K., Choudhury, A., Petrosino, J. F."]
+authors:
+- Mary Ann Faucher
+- admin
+- Marie Hastings-Tolsma
+- Robert Noah Padgett
+- Kimberly Sakovich
+- Ankan Choudhury
+- Aadil Sheikh
+- Nadim J Ajami
+- Joseph F Petrosino
+
 date: "2019"
 doi: "10.1055/s-0039-1692715"
 
@@ -14,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Am J Perinatol*."
+publication: "*American Journal of Perinatology*."
 publication_short: ""
 
 abstract: 

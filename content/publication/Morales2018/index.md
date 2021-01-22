@@ -1,6 +1,9 @@
 ---
 title: "Compositional Analysis of the Human Microbiome in Cancer Research"
-authors: ["Elisa Morales, Jun Chen, K. Leigh Greathouse"]
+authors: 
+- Elisa Morales
+- Jun Chen
+- admin
 date: "2018-01-01"
 doi: ""
 
