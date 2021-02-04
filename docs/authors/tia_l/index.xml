@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lillian Tia | The Greathouse Lab</title>
-    <link>https://GreathouseLab.github.io/authors/tia_l/</link>
-      <atom:link href="https://GreathouseLab.github.io/authors/tia_l/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/tia_l/</link>
+      <atom:link href="/authors/tia_l/index.xml" rel="self" type="application/rss+xml" />
     <description>Lillian Tia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lillian Tia</title>
-      <link>https://GreathouseLab.github.io/authors/tia_l/</link>
+      <link>/authors/tia_l/</link>
     </image>
     
   </channel>

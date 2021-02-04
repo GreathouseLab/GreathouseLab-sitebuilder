@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marie Hastings-Tolsma | The Greathouse Lab</title>
-    <link>https://GreathouseLab.github.io/authors/marie-hastings-tolsma/</link>
-      <atom:link href="https://GreathouseLab.github.io/authors/marie-hastings-tolsma/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/marie-hastings-tolsma/</link>
+      <atom:link href="/authors/marie-hastings-tolsma/index.xml" rel="self" type="application/rss+xml" />
     <description>Marie Hastings-Tolsma</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Marie Hastings-Tolsma</title>
-      <link>https://GreathouseLab.github.io/authors/marie-hastings-tolsma/</link>
+      <link>/authors/marie-hastings-tolsma/</link>
     </image>
     
     <item>
       <title>PREPRINT: Exploration of diet quality by obesity severity in association with gestational weight gain and distal gut microbiota in pregnant African American women: A Pilot Study</title>
-      <link>https://GreathouseLab.github.io/publication/greathouseurb/</link>
+      <link>/publication/greathouseurb/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/greathouseurb/</guid>
+      <guid>/publication/greathouseurb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration of the Vaginal and Gut Microbiome in African American Women by Body Mass Index, Class of Obesity, and Gestational Weight Gain: A Pilot Study</title>
-      <link>https://GreathouseLab.github.io/publication/faucher2019a/</link>
+      <link>/publication/faucher2019a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/faucher2019a/</guid>
+      <guid>/publication/faucher2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Gut Microbiome, Obesity, and weight control in Women’s Reproductive Health.</title>
-      <link>https://GreathouseLab.github.io/publication/greathouse2017/</link>
+      <link>/publication/greathouse2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/greathouse2017/</guid>
+      <guid>/publication/greathouse2017/</guid>
       <description></description>
     </item>
     

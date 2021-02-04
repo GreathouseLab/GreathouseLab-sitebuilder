@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sarah E Messiah | The Greathouse Lab</title>
-    <link>https://GreathouseLab.github.io/authors/sarah-e-messiah/</link>
-      <atom:link href="https://GreathouseLab.github.io/authors/sarah-e-messiah/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/sarah-e-messiah/</link>
+      <atom:link href="/authors/sarah-e-messiah/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarah E Messiah</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sarah E Messiah</title>
-      <link>https://GreathouseLab.github.io/authors/sarah-e-messiah/</link>
+      <link>/authors/sarah-e-messiah/</link>
     </image>
     
     <item>
       <title>Comparison of Methodological Approaches to Human Gut Microbiota Changes in Response to Metabolic and Bariatric Surgery: A Systematic Review.</title>
-      <link>https://GreathouseLab.github.io/publication/moralesura/</link>
+      <link>/publication/moralesura/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/moralesura/</guid>
+      <guid>/publication/moralesura/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joshua C Mell | The Greathouse Lab</title>
-    <link>https://GreathouseLab.github.io/authors/joshua-c-mell/</link>
-      <atom:link href="https://GreathouseLab.github.io/authors/joshua-c-mell/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/joshua-c-mell/</link>
+      <atom:link href="/authors/joshua-c-mell/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua C Mell</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Joshua C Mell</title>
-      <link>https://GreathouseLab.github.io/authors/joshua-c-mell/</link>
+      <link>/authors/joshua-c-mell/</link>
     </image>
     
     <item>
       <title>Interaction between the microbiome and TP53 in human lung cancer</title>
-      <link>https://GreathouseLab.github.io/publication/greathouse2018b/</link>
+      <link>/publication/greathouse2018b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/greathouse2018b/</guid>
+      <guid>/publication/greathouse2018b/</guid>
       <description></description>
     </item>
     

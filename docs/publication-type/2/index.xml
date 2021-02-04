@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | The Greathouse Lab</title>
-    <link>https://GreathouseLab.github.io/publication-type/2/</link>
-      <atom:link href="https://GreathouseLab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://GreathouseLab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>https://GreathouseLab.github.io/publication-type/2/</link>
+      <link>/publication-type/2/</link>
     </image>
     
     <item>
       <title>Comparison of Methodological Approaches to Human Gut Microbiota Changes in Response to Metabolic and Bariatric Surgery: A Systematic Review.</title>
-      <link>https://GreathouseLab.github.io/publication/moralesura/</link>
+      <link>/publication/moralesura/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/moralesura/</guid>
+      <guid>/publication/moralesura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNA extraction for human microbiome studies: the issue of standardization</title>
-      <link>https://GreathouseLab.github.io/publication/greathouse2019b/</link>
+      <link>/publication/greathouse2019b/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/greathouse2019b/</guid>
+      <guid>/publication/greathouse2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gut microbiome meta-analysis reveals dysbiosis is independent of body mass index in predicting risk of obesity-associated CRC</title>
-      <link>https://GreathouseLab.github.io/publication/greathouse2019a/</link>
+      <link>/publication/greathouse2019a/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/greathouse2019a/</guid>
+      <guid>/publication/greathouse2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interaction between the microbiome and TP53 in human lung cancer</title>
-      <link>https://GreathouseLab.github.io/publication/greathouse2018b/</link>
+      <link>/publication/greathouse2018b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/greathouse2018b/</guid>
+      <guid>/publication/greathouse2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration of the Vaginal and Gut Microbiome in African American Women by Body Mass Index, Class of Obesity, and Gestational Weight Gain: A Pilot Study</title>
-      <link>https://GreathouseLab.github.io/publication/faucher2019a/</link>
+      <link>/publication/faucher2019a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/faucher2019a/</guid>
+      <guid>/publication/faucher2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Gut Microbiome, Obesity, and weight control in Women’s Reproductive Health.</title>
-      <link>https://GreathouseLab.github.io/publication/greathouse2017/</link>
+      <link>/publication/greathouse2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://GreathouseLab.github.io/publication/greathouse2017/</guid>
+      <guid>/publication/greathouse2017/</guid>
       <description></description>
     </item>
     
